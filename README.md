@@ -97,3 +97,13 @@ Distributed under the Apache 2.0 License. See [LICENSE](./LICENSE) for more info
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+---
+
+## 📸 Screenshots
+
+### DAG Execution (Airflow Graph View)
+![DAG Graph](assets/dag_graph.png)
+
+### PostgreSQL Data Output
+![Postgres Data](assets/db_result.png)
+
